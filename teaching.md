@@ -3,7 +3,7 @@ layout: page
 title: Zajitschek Labspace
 subtitle: Teaching
 css: "/css/index.css"
-img:
+bigimg:
   - "/img/construction2.jpg" 
 ---
 
