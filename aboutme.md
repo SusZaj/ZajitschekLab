@@ -3,11 +3,10 @@ layout: page
 title: About me
 subtitle: Dr Susanne Zajitschek
 ---
-Behavioural Ecologist. 
-Joining the team at the School of Natural Sciences and Psychology at 
-Liverpool John Moore's University in 2020, as  
-Lectuerer in Animal Behaviour.
+Behavioural Ecologist.    
+Joining the team at the School of Natural Sciences and Psychology at Liverpool John Moore's University in 2020, as Lectuerer in Animal Behaviour.
 
+![wordcloud](/img/wordcloud.jpg)
 
 ### Curriculum Vitae
    
