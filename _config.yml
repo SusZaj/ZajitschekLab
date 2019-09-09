@@ -22,10 +22,12 @@ description: The Zajitschek Lab at LJMU - COMING SOON!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Research: "http://SusZaj.com/"
-    - Teaching: "http://www.markdowntutorial.com/"
-    - Links: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Research: "https://susannezajitschek.wordpress.com/research/"
+    - Publications: "https://susannezajitschek.wordpress.com/research/"
+    - Teaching: "http://SusZaj.com/"
+    - Links: "https://susannezajitschek.wordpress.com/links/"
+    - Resources: "http://www.markdowntutorial.com/"
+  Author's home: "http://SusZaj.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
