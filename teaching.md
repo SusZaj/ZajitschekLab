@@ -4,7 +4,7 @@ title: Zajitschek Labspace
 subtitle: Teaching
 css: "/css/index.css"
 bigimg:
-  - "/img/construction2.jpg" 
+  - "/img/construction2.png" 
 ---
 
 
