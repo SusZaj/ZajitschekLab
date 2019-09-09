@@ -2,9 +2,6 @@
 layout: page
 title: About me
 subtitle: Dr Susanne Zajitschek
-css: "/css/index.css"
-bigimg:
-  - "/img/wordcloud.jpg" 
 ---
 Behavioural Ecologist. 
 Joining the team at the School of Natural Sciences and Psychology at 
