@@ -29,7 +29,7 @@ navbar-links:
     - Publications: "https://susannezajitschek.wordpress.com/research/"
     - Teaching: "teaching"
     - Links: "https://susannezajitschek.wordpress.com/links/"
-    Resources: 
+  More Resources: 
         - R markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://julius.zajitschek.de/"
 
