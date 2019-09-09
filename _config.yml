@@ -11,7 +11,8 @@ description: The Zajitschek Lab at LJMU - COMING SOON!
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: ""http://suszaj.github.io""
+
 
 # baseurl should be an empty string
 #baseurl: ""
