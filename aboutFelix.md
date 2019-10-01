@@ -18,4 +18,7 @@ Evolutionary Ecologist. Senescense, diet and the evolution of ageing.
 1999-2000: University of Tasmania    
 1996-2003: Ludwig-Maximilians-Universität (LMU), Munich
 
-### [MORE](https://felixzajitschek.wordpress.com/professional/)
+### [MORE on Felix' hompepage!](https://felixzajitschek.wordpress.com/professional/) 
+
+![Felix](img/Felix.jpg)
+
