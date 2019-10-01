@@ -6,7 +6,7 @@ css: "/css/index.css"
 image: /img/Logo.png
 ---
 
-![Rlogo](/img/Rlogo.png)<div style="text-align: right">
+![Rlogo](/img/Rlogo.png) {div style="text-align: right"}
 
 ## Intro to R / R studio
 
