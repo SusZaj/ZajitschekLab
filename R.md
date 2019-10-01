@@ -3,11 +3,10 @@ layout: page
 title: R resources
 subtitle: Zajitschek Labspace
 css: "/css/index.css"
-bigimg:
-  - "/img/Rlogo.png" 
+image: /img/Rlogo.png
 ---
 
-## Intro to R / R studio:
+## Intro to R / R studio
 
 - excellent resource to get started, gives overview and intro to R studio:
 [Environmental Computing](http://environmentalcomputing.net/)
@@ -16,7 +15,7 @@ bigimg:
 
 - [tips & tricks](https://appsilon.com/r-studio-shortcuts-and-tips/?nabe=4825491004194816:1) for R studio  
 
-## R markdown:
+## R markdown
 
 - [R studio markdown](https://rmarkdown.rstudio.com/)
 
@@ -24,17 +23,19 @@ bigimg:
 
 - Examples what markdown can do – and [further resources!](https://rmarkdown.rstudio.com/gallery.html)
 
-## R tidyverse:
+## R tidyverse
 
-- Intro to the [tidyverse](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
+- Intro to the [tidyverse](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html) 
+   
 
 ## Understanding your stats in R
 
-- R for [data science](https://r4ds.had.co.nz/)
+- R for [data science](https://r4ds.had.co.nz/)   
+
 
 ## Pretty plots in R
 
-- [R graph gallery](http://r-graph-gallery.com/
+- [R graph gallery](http://r-graph-gallery.com/)
 
 - adding fancy images / [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
