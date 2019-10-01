@@ -5,7 +5,7 @@ subtitle: Zajitschek Labspace
 css: "/css/index.css"
 image: /img/Logo.png
 ---
-![R Logo](/img/Rlogo.png){: .align-right}    
+![R Logo](/img/Rlogo.png){:.align-right}    
 ## Intro to R / R studio
 
 - excellent resource to get started, gives overview and intro to R studio:
@@ -21,16 +21,19 @@ image: /img/Logo.png
 
 - all you need to know about [markdown](https://bookdown.org/yihui/rmarkdown/)
 
-- Examples what markdown can do – and [further resources!](https://rmarkdown.rstudio.com/gallery.html)
+- Examples what markdown can do – and [further resources!](https://rmarkdown.rstudio.com/gallery.html)  
+
 
 ## R tidyverse
 
-- Intro to the [tidyverse](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html) 
+- Intro to the [tidyverse](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)     
+
    
 
 ## Understanding your stats in R
 
-- R for [data science](https://r4ds.had.co.nz/)   
+- R for [data science](https://r4ds.had.co.nz/)        
+
 
 
 ## Pretty plots in R
