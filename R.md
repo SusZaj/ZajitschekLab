@@ -4,7 +4,7 @@ title: Zajitschek Labspace
 subtitle: R resources
 css: "/css/index.css"
 bigimg:
-  - "/img/construction2.png" 
+  - "/img/Rlogo.png" 
 ---
 
 # R and statistics
