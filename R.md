@@ -1,12 +1,11 @@
 ---
 layout: page
 title: R resources
-subtitle: Zajitschek Labspace ![Rlogo](/img/Rlogo.png)
+subtitle: Zajitschek Labspace 
 css: "/css/index.css"
 image: /img/Logo.png
 ---
-
-
+image: /img/Rlogo.png
 ## Intro to R / R studio
 
 - excellent resource to get started, gives overview and intro to R studio:
