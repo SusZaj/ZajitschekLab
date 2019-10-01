@@ -5,7 +5,7 @@ subtitle: Zajitschek Labspace
 css: "/css/index.css"
 image: /img/Logo.png
 ---
-image: /img/Rlogo.png
+![R Logo](/img/Rlogo.png){: .align-right}    
 ## Intro to R / R studio
 
 - excellent resource to get started, gives overview and intro to R studio:
