@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
+image: /img/Rlogo.png
 ---
 
-This is my first post, how exciting!
+We have now some resources on R, R studio and markdown in our resources section, check it out!
