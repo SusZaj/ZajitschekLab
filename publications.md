@@ -6,45 +6,45 @@ subtitle: Zajitschek Lab
 
 # 2019
 
-45. Senescence in wild insects: key questions and challenges.
+(45). Senescence in wild insects: key questions and challenges.
 **Zajitschek, F., Zajitschek, S.R.K** , R. Bonduriansky (2019)
 Part of the forthcoming special issue: “An integrative view of senescence in nature”.
 Functional Ecology. Online Early. Open access.
 
 
-44. Costs and benefits of giant sperm and sperm storage organs in *Drosophila melanogaster*.
+(44). Costs and benefits of giant sperm and sperm storage organs in *Drosophila melanogaster*.
 **Zajitschek, S.R.K, Zajitschek, F.**, Josway, S. , Al Shabeeb, R., Weiner, H., M.K. Manier (2019). *Joint first authors
 Journal of Evolutionary Biology. *In press*.
 
-43. The diversity of population responses to environmental change.
+(43). The diversity of population responses to environmental change.
 Colchero, F., Jones, O., Conde, D., Hodgson, D., **Zajitschek, F.**, Schmidt, B., Becker, P., Bouwhuis, S., Bronikowski, A., De Vleeschouwer, K., Dummermuth, S., Fernandez-Duque, E., Flatt, T., Frisenvænge, J., Graham, J., Hesselsøe, M., Hodgson, D., Larson, S., Lemaitre, J.F., Malo, A., Miller, D., O’Donnell, C., Packer, C., Raboy, B., Reading, C., Sheldon, B., Wapstra, E., Weimerskirch, H., G. While, Coulson, T., JM. Gaillard (2019).
 Ecology Letters 22(2): 342-353. Open access.
 
 # 2018
 
-42. Transgenerational effects of maternal sexual interactions. 
+(42). Transgenerational effects of maternal sexual interactions. 
 **Zajitschek,S.**,   Dowling, D.K.,  Head, M.L., Rodriguez-Exposito, E. &  Garcia-Gonzalez, F. (2018). 
 Heredity, 121: 282–291.
 
-41. Host diet mediates a negative relationship between abundance and diversity of Drosophila gut microbiota.
+(41). Host diet mediates a negative relationship between abundance and diversity of Drosophila gut microbiota.
 Berra Erkosar, Erika Yashiro, **Felix Zajitschek**, Urban Friberg, Alexei Maklakov, Jan Roelof van der Meer, Tadeusz Kawecki (2018).
 Ecology & Evolution 8(18): 9491-9502. Open access.
 
-40. Evolution under dietary restriction decouples survival from fecundity in Drosophila melanogaster females.
+(40). Evolution under dietary restriction decouples survival from fecundity in Drosophila melanogaster females.
 **Felix Zajitschek**, Grigorios Georgolopoulos, Anna Vourlou, Maja Ericsson, **Susanne Zajitschek**, Urban Friberg, Alexei Maklakov (2018).
 Journal of Gerontology: Biological Sciences. Online early. https://doi.org/10.1093/gerona/gly070
 
-39. Antagonistic pleiotropy in species with separate sexes, and the maintenance of genetic variation in life-history traits and fitness.
+(39). Antagonistic pleiotropy in species with separate sexes, and the maintenance of genetic variation in life-history traits and fitness.
 **Felix Zajitschek**, Tim Connallon (2018).
 Evolution 72(6): 1306–1316.
 
-38. Are females in good condition better able to cope with costly males?
+(38). Are females in good condition better able to cope with costly males?
 Iglesias-Carrasco, M., Jennions, M.D.,  **Zajitschek, S**,  Head, M.L. (2018). 
 Behavioural Ecology, 29(4): 876–884
 
 # 2017
 
-37. Paternal personality and social status influence offspring activity in zebrafish.
+(37). Paternal personality and social status influence offspring activity in zebrafish.
 **Susanne Zajitschek**, James Herbert-Read, Nasir Abbasi, **Felix Zajitschek**, Simone Immler (2017).
 BMC Evolutionary Biology 17:157. Open access.
 Accompanying BMC blog post: Sins of the father: can paternal social status affect offspring personality?
