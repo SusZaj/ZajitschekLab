@@ -3,8 +3,9 @@ layout: page
 title: R resources
 subtitle: Zajitschek Labspace
 css: "/css/index.css"
-image: /img/Rlogo.png
+image: /img/Logo.png
 ---
+![Rlogo](/img/Rlogo.png)
 
 ## Intro to R / R studio
 
