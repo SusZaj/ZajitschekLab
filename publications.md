@@ -6,23 +6,23 @@ subtitle: Zajitschek Lab
 
 # 2019
 
-(45). Senescence in wild insects: key questions and challenges.
+(45) Senescence in wild insects: key questions and challenges.
 **Zajitschek, F., Zajitschek, S.R.K** , R. Bonduriansky (2019)
 Part of the forthcoming special issue: “An integrative view of senescence in nature”.
 Functional Ecology. Online Early. Open access.
 
 
-(44). Costs and benefits of giant sperm and sperm storage organs in *Drosophila melanogaster*.
+(44) Costs and benefits of giant sperm and sperm storage organs in *Drosophila melanogaster*.
 **Zajitschek, S.R.K, Zajitschek, F.**, Josway, S. , Al Shabeeb, R., Weiner, H., M.K. Manier (2019). *Joint first authors
 Journal of Evolutionary Biology. *In press*.
 
-(43). The diversity of population responses to environmental change.
+(43) The diversity of population responses to environmental change.
 Colchero, F., Jones, O., Conde, D., Hodgson, D., **Zajitschek, F.**, Schmidt, B., Becker, P., Bouwhuis, S., Bronikowski, A., De Vleeschouwer, K., Dummermuth, S., Fernandez-Duque, E., Flatt, T., Frisenvænge, J., Graham, J., Hesselsøe, M., Hodgson, D., Larson, S., Lemaitre, J.F., Malo, A., Miller, D., O’Donnell, C., Packer, C., Raboy, B., Reading, C., Sheldon, B., Wapstra, E., Weimerskirch, H., G. While, Coulson, T., JM. Gaillard (2019).
 Ecology Letters 22(2): 342-353. Open access.
 
 # 2018
 
-(42). Transgenerational effects of maternal sexual interactions. 
+(42) Transgenerational effects of maternal sexual interactions. 
 **Zajitschek,S.**,   Dowling, D.K.,  Head, M.L., Rodriguez-Exposito, E. &  Garcia-Gonzalez, F. (2018). 
 Heredity, 121: 282–291.
 
