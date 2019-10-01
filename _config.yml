@@ -22,16 +22,25 @@ url: "http://suszaj.github.io"
 # List of links in the navigation bar
 navbar-links:
   About Us: 
-  - About me: "aboutme"
+  - About Susi: "aboutme"
+  - About Felix: "aboutFelix"
   - The team: "aboutothers"
-  Research: "https://susannezajitschek.wordpress.com/research/"
+  Research: 
+  - Behavioural Ecology: "beheco" # "https://susannezajitschek.wordpress.com/research/"
+  - Life History: "lifehist"
+  - Evolutionary Ecology: "evolecol"
+  Publications: "publications"
+  Opportunites: "opportunities"
+  Teaching: "teaching"
   Resources:
-    - Publications: "https://susannezajitschek.wordpress.com/research/"
-    - Teaching: "teaching"
-    - Links: "https://susannezajitschek.wordpress.com/links/"
+    - Labmanual: "labmanual"
+    - R and related: "R" #"http://www.markdowntutorial.com/"
+    - Skills: "orga" # writing & orga
+    - Funding: "funding" # helfl hints, resources, wheres, Uni assistan
+    - Links: "https://susannezajitschek.wordpress.com/links/" # felix!
   More Resources: 
-        - R markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://julius.zajitschek.de/"
+  - Private: "http://julius.zajitschek.de/"
+  - Work-Life-Balance: "mindfulness"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -100,7 +109,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "SusZaj.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "SusZaj.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
