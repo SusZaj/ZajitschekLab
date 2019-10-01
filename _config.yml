@@ -26,10 +26,8 @@ navbar-links:
   - About Felix: "aboutFelix"
   - The team: "aboutothers"
   Research: 
-  - Behavioural Ecology: "beheco" # "https://susannezajitschek.wordpress.com/research/"
-  - Life History: "lifehist"
-  - Evolutionary Ecology: "evolecol"
-  Publications: "publications"
+  - Research Interests: "beheco" # "https://susannezajitschek.wordpress.com/research/" missing lifehist evol ecol
+  - Publications: "publications"
   Opportunites: "opportunities"
   Teaching: "teaching"
   Resources:
@@ -38,9 +36,8 @@ navbar-links:
     - Skills: "orga" # writing & orga
     - Funding: "funding" # helfl hints, resources, wheres, Uni assistan
     - Links: "https://susannezajitschek.wordpress.com/links/" # felix!
-  More Resources: 
-  - Private: "http://julius.zajitschek.de/"
-  - Work-Life-Balance: "mindfulness"
+    - More Resources: "private"  #"http://julius.zajitschek.de/"; "mindfulness"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
