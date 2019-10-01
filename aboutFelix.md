@@ -20,5 +20,5 @@ Evolutionary Ecologist. Senescense, diet and the evolution of ageing.
 
 ### [MORE on Felix' hompepage!](https://felixzajitschek.wordpress.com/professional/) 
 
-![Felix](img/Felix.jpg)
+![Felix](img/F2.jpg)
 
