@@ -15,7 +15,7 @@ url: "http://suszaj.github.io/ZajitschekLab"
 
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -106,7 +106,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://suszaj.ZajitschekLab"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ZajitschekLab.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
