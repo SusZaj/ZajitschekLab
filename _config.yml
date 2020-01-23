@@ -26,8 +26,10 @@ navbar-links:
   - About Felix: "aboutFelix"
   - The team: "aboutOthers"
   Research: 
-  - Research Interests: "beheco" # "https://susannezajitschek.wordpress.com/research/" missing lifehist evol ecol
-  - Publications: "publications"
+  - Behavioural Ecology: "beheco" 
+  - Life History: "lifehist" # "https://susannezajitschek.wordpress.com/research/" missing lifehist evol ecol
+  - Ecology & Evolution: "evolecol"
+  Publications: "publications"
   Opportunites: "opportunities"
   Teaching: "teaching"
   Resources:
@@ -106,7 +108,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "ZajitschekLab.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ZajitschekLab"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
