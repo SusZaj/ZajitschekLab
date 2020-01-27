@@ -37,7 +37,7 @@ navbar-links:
     - R and related: "R" #"http://www.markdowntutorial.com/"
     - Skills: "orga" # writing & orga
     - Funding: "funding" # helfl hints, resources, wheres, Uni assistan
-    - Links: "https://susannezajitschek.wordpress.com/links/" # felix!
+    - Links: "links" #https://susannezajitschek.wordpress.com/links/" # felix!
     - More Resources: "private"  #"http://julius.zajitschek.de/"; "mindfulness"
   
 
