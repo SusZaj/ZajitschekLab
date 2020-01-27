@@ -3,7 +3,6 @@ layout: page
 title: Behavioural Ecology
 subtitle: Zajitschek Lab 
 ---
-## Our interests in Animal behaviour
 
 ### The role of epigenetic effects in adapting to changing environments
 
