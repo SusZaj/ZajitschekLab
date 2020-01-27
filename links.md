@@ -25,3 +25,21 @@ Mike Jennions – Dietary restriction, genetic architecture underlying ageing
 Chad Brassil – Mathematical modelling of ageing in natural populations
 Steve Simpson’s lab – Geometric framework of feeding and nutrition
  
+
+The Dowling Lab @ Monash Uni
+
+I-deel: Shinichi Nakagawa’s Research at UNSW and The Garvan Institute for Medical research
+
+Paco Garcia-Gonzalez: CSIC research on transgenerational effects, sexual conflict and other cool things
+
+The Manier Lab: Flies, sperm and female storage organs
+
+The Brooks Lab: Sex, Genes & Rock’n Roll
+
+George Washington University
+
+Station d’Ecologie Experimentale du CNRS à Moulis
+Evolution and Ecology Research Centre
+Felix Zajitschek
+Susanne Zajitschek @GWU
+Beate Nürnberger, LMU
