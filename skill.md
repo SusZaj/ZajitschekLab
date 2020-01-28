@@ -27,13 +27,13 @@ plus lots of links therein...
 
 
 ## Organisational skills
-- don't procrastinate
+- don't procrastinate (see [here](https://procrastination.com/what-is-procrastination) and [here](https://alphaefficiency.com/4-types-procrastination-beat/) to find out what the problem is and how you may beat it)
 - be organised. Use calendars, planner, tools.
 
 ***I recommend:***
-- google calendar. Easiest way to stay on top of apoointments and deadlines.
-- freedcamp. Great tool to integrate deadlines, tasks & projects with milestones.
-- Todoist. Good for daily tick-offs, but may take a while to get the hang of it.
-- VISUALIZE your project / paper / breakfast plans: VUE mindmaps! Absolutely awesome....
+- Google calendar. Easiest way to stay on top of appointments and deadlines.
+- [freedcamp](https://freedcamp.com). Great tool to integrate deadlines, tasks & projects with milestones.
+- [Todoist](https://todoist.com). Good for daily tick-offs, but may take a while to get the hang of it.
+- VISUALIZE your project / paper / breakfast plans: create [VUE mindmaps](https://vue.tufts.edu)! Absolutely awesome.... see below
 
-
+![PlanWebpage.jpeg](img/PlanWebpage.jpeg)
