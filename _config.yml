@@ -35,10 +35,10 @@ navbar-links:
   Resources:
     - Labmanual: "labmanual"
     - R and related: "R" #"http://www.markdowntutorial.com/"
-    - Skills: "orga" # writing & orga
+    - Skills: "skill" # writing & orga - remember to add ORGANISATION SKILLS IN THERE!!
     - Funding: "funding" # helfl hints, resources, wheres, Uni assistan
     - Links: "links" #https://susannezajitschek.wordpress.com/links/" # felix!
-    - More Resources: "private"  #"http://julius.zajitschek.de/"; "mindfulness"
+    - private: "private"  #"http://julius.zajitschek.de/"; "mindfulness"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
