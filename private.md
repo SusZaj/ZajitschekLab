@@ -9,7 +9,8 @@ subtitle: What we do when we're not at Uni...
 - wondering how julius got into [cars](https://juliussupercars.wordpress.com/)
 - trying to stay [mindful](https://zenzaj.wordpress.com/)
 
-#### "Yesterday's the past, tomorrow's the future, but today is a GIFT. That's why it's called the present."  
+#### "Yesterday's the past, tomorrow's the future,    
+#### but today is a GIFT. That's why it's called the present."  
 
 ***Bil Keane***
 
