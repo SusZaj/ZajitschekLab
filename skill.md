@@ -15,8 +15,8 @@ the [emphasis blog](https://www.writing-skills.com/top-ten-writing-tips-for-scie
 Susi writes about [communication skills](http://www.i-deel.org/blog/archives/04-2019)
 
 Other useful pages:     
-[Bradford](https://www.bradford.ac.uk/careers/develop-skills/communication/), hints and tips on communication and presentaion for graduates that are looking for jobs   
-[Presentation skills](https://www.skillsyouneed.com/presentation-skills.html), also from
+[Bradford University](https://www.bradford.ac.uk/careers/develop-skills/communication/) gives hints and tips on communication and presentaion for graduates that are looking for jobs   
+More information on [Presentation skills here](https://www.skillsyouneed.com/presentation-skills.html), and also from
 [advertising professionals](https://www.wordstream.com/blog/ws/2014/11/19/how-to-improve-presentation-skills)
 
 
@@ -24,3 +24,16 @@ Other useful pages:
 ***Guest blog on the i-deel.org webpage:***   
 Susi's [The happy scientist](http://www.i-deel.org/blog/archives/10-2018), 
 plus lots of links therein... 
+
+
+## Organisational skills
+- don't procrastinate
+- be organised. Use calendars, planner, tools.
+
+***I recommend:***
+- google calendar. Easiest way to stay on top of apoointments and deadlines.
+- freedcamp. Great tool to integrate deadlines, tasks & projects with milestones.
+- Todoist. Good for daily tick-offs, but may take a while to get the hang of it.
+- VISUALIZE your project / paper / breakfast plans: VUE mindmaps! Absolutely awesome....
+
+
