@@ -13,5 +13,5 @@ In 2010, we started to use a new experimental facility, called the Metatron, whi
 ![Metatron](img/metatron.jpeg)
 
 ## The significance of long sperm    
-Fruit flies display an astounding variation in sperm length across closely related species, ranging from relatively short sperm in _D. melanogaster_ (1.8mm) to giant sperm in _D. bifurca_ (58mm). So far little is known about the genetics, ecology and evolutionary significance of this variation. We performed experiments on historical selection lines to investigate differences in behaviour and life history traits in relation to long and short male and female reproductive organs.
+Fruit flies display an astounding variation in sperm length across closely related species, ranging from relatively short sperm in _D. melanogaster_ (1.8mm) to giant sperm in _D. bifurca_ (58mm). So far little is known about the genetics, ecology and evolutionary significance of this variation. We performed experiments on historical selection lines to investigate differences in behaviour and life history traits in relation to long and short male and female reproductive organs.   
 ![fluorescent testes](img/gfp-testes.jpeg)
