@@ -7,17 +7,16 @@ subtitle: Zajitschek Lab
 
 How do personality and optimistic behaviour interact? Are bolder personality types alsso more optimistic? How can we influence animal "moods"? Are there sex differences in optimism? All these questions are still largely unknown, and we have only recently started exploring this field, in collaboration with the zebrafish team of the [Interdiscipliary Ecology and Evolution Lab](http://www.i-deel.org/), at UNSW.   
 
-### The role of epigenetic effects in adapting to changing environments
+### Trangenerational consequences of maternal sexual interactions   
 
-Our research on zebrafish (*Danio rerio*) in the [Immler lab](http://www.ebc.uu.se/Research/IEG/evbiol/research/Immler/) 
-at the EBC at Uppsala University (Sweden) investigated the interplay of haploid selection, phenotypic plasticity in sperm 
-and epigenetic inheritance. Drawing on the current paradigm shift in evolutionary ecology, which combines genetic and 
-non-genetic transgenerational inheritance mechanisms, a particular focus of this research was to study how variation 
-in not only in male reproductive traits but also in paternal social environment mediates reproductive success. 
+Sexual conflict, the fact that neither sex can optimise their reproductive  "ideal", is widespread. It is for example obervable in differences in mating rates (males typically would benefit from mating more often, which may have negative conequences for females). In some species, mating can be outright harmful for the females, if males transfer toxins with their ejaculate, or have developed spines and spikes on their intromitted organs to prolong the mating act. Investigating the transgenerational effects of different levels maternal sexual interactions is particularly interesting in short-lived insects, with high levels of sexual conflict. We use fruit flies, where the male transmits substances that enhance egg laying, supress re-mating and may affect female longevity, and seed beetles, which have evolved marmful intromitted organs, to investigate the direct and indirect consequences of mating.   
+![seedbeetles](img/sb.jpeg)
 
-Specifically, I investigated the role of social environment on multiple levels, looking at fitness differences of offspring 
-which are presumably transmitted to the offspring via epigenetic modifications in the paternal ejaculate.
+### The role of paternal transgenerational effects
+
+Our research conducted with Simone Immler at Uppsala University drew on the emerging view on parental epigenetic inheritance. In zebrafish (*Danio rerio*) we studied how the paternal social environment mediates not only variation in male reproductive traits but also male reproductive success and trangenerationally transmitted offspring traits.   
 ![zebrafishLab](img/zf.jpeg)
+
 
 ### The interaction between population structure and behavior: studying dispersal   
 
