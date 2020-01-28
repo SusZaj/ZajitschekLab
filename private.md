@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Zajitscheks, privately
+title: The Zajitscheks, in private
 subtitle: What we do when we're not at Uni...
 ---
 
