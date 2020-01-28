@@ -11,8 +11,8 @@ subtitle: What we do when we're not at Uni...
 
 ----------------------------------------------
        
-_"Yesterday's the past, tomorrow's the future,    
- but today is a GIFT. That's why it's called the present."_ 
+***"Yesterday's the past, tomorrow's the future,    
+ but today is a GIFT. That's why it's called the present."***
 
-> ***Bil Keane***
+  _Bil Keane_
 
