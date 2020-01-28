@@ -3,16 +3,16 @@ layout: page
 title: Zajitschek Labspace
 subtitle: Life history
 ---
-![Bombina](img/bombina.jpeg)
+![Bombina](img/bombina.jpeg)   
 Life-history theory provides ultimate causes of why traits like development time, mortality before and after maturation, or fecundity should be shaped in a specific way, depending on what species or even population we look at. It is obvious that lifespan of an organism does affect its fitness. Maximum potential lifespan is not the same in organisms with similar metabolic rates, therefore a purely mechanistic explanation of senescence (‘wear and tear’) is not sufficient. Rates of ageing and senescence should depend on the genetic architecture and the evolutionary forces, mainly selection, that shaped them.
 
 ## GENETICS  
 To investigate the genetic architecture underlying age-dependent fitness traits, Felix performed a quantitative genetic study, where he looked at the genetic correlations between the expression of fitness related traits early and late in life. These kinds of correlations are an important tenet in evolutionary theory of ageing, more exactly in the antagonistic pleiotropy theory. We tested not only for genetic relationships within the two separate sexes, but also between the sexes. This allowed us to evaluate whether sexual conflict is potentially important in constraining sex-specific independent evolution of increased fitness.
-More estimates of the effect of intra-locus sexual conflict on ageing in various different taxa are needed to assess the importance and ubiquity of this mechanism for the evolution of sex-specific senescent phenotypes.
+More estimates of the effect of intra-locus sexual conflict on ageing in various different taxa are needed to assess the importance and ubiquity of this mechanism for the evolution of sex-specific senescent phenotypes.   
 ![cricket](img/cricket.jpeg)
 
 ## DIET  
-Caloric or, better, dietary restriction is another area we are interested in. Theory predicts that sexually selected traits should be costly, and that does not only mean in an immediate physiological way (e.g. ‘the more a cricket calls, the more energy it spends, the higher its immediate resource intake has to be’), rather with a life-history background of some kind of lifetime balance between acquisition and allocation of resources. So, by combining this assumption with the fact that dietary restriction has been shown to prolong lifespan in a wide range of organisms, we want to further explore the interface between sexual selection and ageing.
+Caloric or, better, dietary restriction is another area we are interested in. Theory predicts that sexually selected traits should be costly, and that does not only mean in an immediate physiological way (e.g. ‘the more a cricket calls, the more energy it spends, the higher its immediate resource intake has to be’), rather with a life-history background of some kind of lifetime balance between acquisition and allocation of resources. So, by combining this assumption with the fact that dietary restriction has been shown to prolong lifespan in a wide range of organisms, we want to further explore the interface between sexual selection and ageing.   
 ![Teleostylinus](img/teleostylinus.jfif)
 
 ## NATURAL POPULATIONS  
