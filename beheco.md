@@ -15,7 +15,7 @@ Sexual conflict, the fact that neither sex can optimise their reproductive  "ide
 ### The role of paternal transgenerational effects
 
 Our research conducted with Simone Immler at Uppsala University drew on the emerging view on parental epigenetic inheritance. In zebrafish (*Danio rerio*) we studied how the paternal social environment mediates not only variation in male reproductive traits but also male reproductive success and trangenerationally transmitted offspring traits.   
-![zebrafishLab](img/zf.jpeg)
+![zebrafishLab](img/zf.jpeg){:height="50%" width="50%"}
 
 
 ### The interaction between population structure and behavior: studying dispersal   
