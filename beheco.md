@@ -31,5 +31,5 @@ aim to facilitate the risky dispersal process for each other.
 ### Sexual selection and Inbreeding avoidance    
 
 We investigated female mating behavior in guppies with a special focus on mechanisms related to inbreeding avoidance. We investigated findings on the negative effects of inbreeding on sperm quantity as well as inbreeding depression in sperm competition using artificial insemination techniques, and females preferences for multivariate male ornamentation.   
-![guppies](img/guppy.jpeg){:height="80%" width="70%"}  ![males](img/maleguppies.jpeg){:height="100%" width= "30%"}
+![guppies](img/guppy.jpeg){:height="80%" width="50%"}  ![males](img/maleguppies.jpeg){:height="100%" width= "30%"}
 
