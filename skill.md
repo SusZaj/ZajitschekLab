@@ -24,6 +24,8 @@ More information on [Presentation skills here](https://www.skillsyouneed.com/pre
 ***Guest blog on the i-deel.org webpage:***   
 Susi's [The happy scientist](http://www.i-deel.org/blog/archives/10-2018), 
 plus lots of links therein... 
+    
+LJMU's hints for [mental health and wellbeing](https://app.goodpractice.net/#/ljmu/s/d251e333)
 
 
 ## Organisational skills
