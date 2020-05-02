@@ -27,7 +27,9 @@ image: /img/Logo.png
 ## R tidyverse
 
 - Intro to the [tidyverse](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)     
-
+   
+- And a great interactive online [bootcamp](https://r-bootcamp.netlify.app/)
+    
    
 
 ## Understanding your stats in R
