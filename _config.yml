@@ -29,8 +29,8 @@ navbar-links:
   - Behavioural Ecology: "beheco" 
   - Life History: "lifehist" # "https://susannezajitschek.wordpress.com/research/" missing lifehist evol ecol
   - Ecology & Evolution: "evolecol"
-  Publications: "publications"
-  Opportunites: "opportunities"
+  Papers: "publications"
+  Join us: "opportunities"
   Teaching: "teaching"
   Resources:
     - Labmanual: "labmanual"
