@@ -3,18 +3,22 @@ layout: page
 title: Publications
 subtitle: Zajitschek Lab 
 ---
+# 2020
+
+(46) Sex and Power: sexual dimorphism in trait variability and its eco-evolutionary and statistical implications.
+**Zajitschek, S.R.K., F. Zajitschek**, Bonduriansky, R., Brooks, R.C., Cornwell,W., Falster, D.S,  Lagisz, M., Mason, J., Senior, A.M., Noble, D. A. W., S. Nakagawa.
+bioRxiv 2020.05.23.106146;
+
+(45) Senescence in wild insects: key questions and challenges.
+**Zajitschek, F., Zajitschek, S.R.K** , R. Bonduriansky (2020).
+Part of the special issue: “An integrative view of senescence in nature”.
+Functional Ecology 34: 26– 37. 
 
 # 2019
 
-(45) Senescence in wild insects: key questions and challenges.
-**Zajitschek, F., Zajitschek, S.R.K** , R. Bonduriansky (2019)
-Part of the forthcoming special issue: “An integrative view of senescence in nature”.
-Functional Ecology. Online Early. Open access.
-
-
 (44) Costs and benefits of giant sperm and sperm storage organs in *Drosophila melanogaster*.
-**Zajitschek, S.R.K, Zajitschek, F.**, Josway, S. , Al Shabeeb, R., Weiner, H., M.K. Manier (2019). *Joint first authors
-Journal of Evolutionary Biology. *In press*.
+**Zajitschek, S.R.K, Zajitschek, F.** \*\, Josway, S. , Al Shabeeb, R., Weiner, H., M.K. Manier (2019). \*\Joint first authors
+Journal of Evolutionary Biology 32: 1300– 1309.
 
 (43) The diversity of population responses to environmental change.
 Colchero, F., Jones, O., Conde, D., Hodgson, D., **Zajitschek, F.**, Schmidt, B., Becker, P., Bouwhuis, S., Bronikowski, A., De Vleeschouwer, K., Dummermuth, S., Fernandez-Duque, E., Flatt, T., Frisenvænge, J., Graham, J., Hesselsøe, M., Hodgson, D., Larson, S., Lemaitre, J.F., Malo, A., Miller, D., O’Donnell, C., Packer, C., Raboy, B., Reading, C., Sheldon, B., Wapstra, E., Weimerskirch, H., G. While, Coulson, T., JM. Gaillard (2019).
