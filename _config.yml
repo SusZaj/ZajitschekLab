@@ -21,6 +21,7 @@ description: The Zajitschek Lab at LJMU
 
 # List of links in the navigation bar
 navbar-links:
+  Publications: "publications"
   About Us: 
   - About Susi: "aboutme"
   - About Felix: "aboutFelix"
@@ -29,7 +30,7 @@ navbar-links:
   - Behavioural Ecology: "beheco" 
   - Life History: "lifehist" # "https://susannezajitschek.wordpress.com/research/" missing lifehist evol ecol
   - Ecology & Evolution: "evolecol"
-  Papers: "publications"
+
   Join us: "opportunities"
   Teaching: "teaching"
   Resources:
