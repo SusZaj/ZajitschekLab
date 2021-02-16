@@ -6,6 +6,7 @@ css: "/css/index.css"
 image: /img/Logo.png
 ---
 ![R Logo](/img/Rlogo.png){:.align-right}    
+
 ## Intro to R / R studio
 
 - excellent resource to get started, gives overview and intro to R studio:
@@ -14,6 +15,14 @@ image: /img/Logo.png
 - R studio [cheat sheets](https://www.rstudio.com/resources/cheatsheets/)    
 
 - [tips & tricks](https://appsilon.com/r-studio-shortcuts-and-tips/?nabe=4825491004194816:1) for R studio  
+
+
+## Understanding your stats in R
+
+- https://michael-franke.github.io/intro-data-analysis/
+
+- R for [data science](https://r4ds.had.co.nz/)      
+
 
 ## R markdown
 
@@ -30,13 +39,6 @@ image: /img/Logo.png
    
 - And a great interactive online [bootcamp](https://r-bootcamp.netlify.app/)
     
-   
-
-## Understanding your stats in R
-
-- R for [data science](https://r4ds.had.co.nz/)        
-
-
 
 ## Pretty plots in R
 
