@@ -32,6 +32,7 @@ GEM
     ffi (1.13.1-x64-mingw32)
     forwardable-extended (2.6.0)
     gem "kramdown", ">= 2.3.0"
+    gem "nokogiri", ">= 1.11.0"
     gemoji (3.0.1)
     github-pages (197)
       activesupport (= 4.2.10)
@@ -208,7 +209,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.1)
     multipart-post (2.1.1)
-    nokogiri (1.10.9)
+    nokogiri (1.11.0)
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.9-x64-mingw32)
       mini_portile2 (~> 2.4.0)
