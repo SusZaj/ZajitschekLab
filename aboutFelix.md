@@ -3,7 +3,7 @@ layout: page
 title: About Felix
 subtitle: Dr Felix Zajitschek
 ---
-Evolutionary Ecologist. Senescense, diet and the evolution of ageing.   
+Evolutionary Ecologist. Senescence, diet and the evolution of ageing.   
 
 ### Curriculum Vitae
    
