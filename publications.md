@@ -3,6 +3,21 @@ layout: page
 title: Publications
 subtitle: Zajitschek Lab 
 ---
+
+# 2021
+
+(49) Sex- and trait-specific silver-spoon effects of developmental environments, on ageing. 
+Sanghvi, K., **Zajitschek, F.**, Iglesias-Carrasco, M. et al.  (2021)
+Evolutionary Ecology 35, 367–385 (2021). https://doi.org/10.1007/s10682-021-10115-y
+
+(48) An efficient new assay for measuring zebrafish anxiety: Tall tanks that better characterize between-individual differences.
+Anwer, H., Mason, D., **Zajitschek, S.**, Noble, D.W.A., Hesselson, D., Morris, M.J., Lagisz, M. and Nakagawa, S., (2021)
+Journal of Neuroscience Methods, 356, p.109138.
+
+(47) Low repeatability of aversive learning in zebrafish (*Danio rerio*).
+Mason, D., **Zajitschek, S.**, Anwer, H., O’Dea, R.E., Hesselson, D. and Nakagawa, S., (2021)  
+Journal of Experimental Biology, jeb.240846.
+
 # 2020
 
 (46) Sex and Power: sexual dimorphism in trait variability and its eco-evolutionary and statistical implications.
