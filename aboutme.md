@@ -4,12 +4,13 @@ title: About me
 subtitle: Dr Susanne Zajitschek
 ---
 Behavioural Ecologist.    
-Joining the team at the School of Natural Sciences and Psychology at Liverpool John Moore's University in 2020, as Lectuerer in Animal Behaviour.
+Joined the team at the School of Natural Sciences and Psychology at Liverpool John Moore's University in 2020, as Lecturer in Animal Behaviour.
 
 ![wordcloud](/img/wordcloud.jpg)
 
 ### Curriculum Vitae
    
+2020-ongoing: Lecturer at LJMU, Animal Behaviour Programme
 2018– 2019 : Postdoc at UNSW, i-deel lab, ongoing collaboration with Monash    
 2015-2017: Talentia Fellow (Marie-Curie Actions), Estación Biológica de Doñana CSIC, Sevilla, Spain   
 2013- 2015: Postdoctoral Researcher, GWU, Washington DC, USA   
