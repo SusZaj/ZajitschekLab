@@ -47,7 +47,9 @@ image: /img/Logo.png
 - adding fancy images / [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 
-## version control / collaboartive analyses: GITHUB
+## GITHUB
+### version control / collaborative analyses / reproducible research
+
 
 - https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/
 
@@ -56,9 +58,8 @@ image: /img/Logo.png
 - https://happygitwithr.com/
 
 
-## Tools for best practice
-
-Preregistration
+## More tools for best practice
+### Preregistration
 
 - The Open Science Framework: https://osf.io
 
