@@ -46,3 +46,23 @@ image: /img/Logo.png
 
 - adding fancy images / [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
+
+## version control / collaboartive analyses: GITHUB
+
+- https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/
+
+- https://malikaihle.github.io/Collaborative-RStudio-GitHub/
+
+- https://happygitwithr.com/
+
+
+## Tools for best practice
+
+Preregistration
+
+- The Open Science Framework: https://osf.io
+
+- How to preregister? Here's a  helpful [guide](https://help.osf.io/hc/en-us/articles/360019738834-Create-a-Preregistration), the most common [template](https://tinyurl.com/OSFPreregTemplate), or [more](https://osf.io/zab38/wiki/home/)
+
+- What data if I haven't done my project yet? https://malikaihle.github.io/Introduction-Simulations-in-R/
+
