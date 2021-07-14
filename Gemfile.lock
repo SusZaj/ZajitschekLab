@@ -33,6 +33,7 @@ GEM
     forwardable-extended (2.6.0)
     gem "kramdown", ">= 2.3.0"
     gem "nokogiri", ">= 1.11.0"
+    gem "addressable", ">= 2.8.0"
     gemoji (3.0.1)
     github-pages (197)
       activesupport (= 4.2.10)
