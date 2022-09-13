@@ -4,6 +4,11 @@ title: Publications
 subtitle: Zajitschek Lab 
 ---
 
+# 2022
+
+(50) Effects of developmental and adult environments on ageing. 
+Sanghvi, K., Iglesias‐Carrasco, M., **Zajitschek, F.**, Kruuk, L. E., & Head, M. L. (2022). Evolution 76(8), pp 1868-1882. https://doi.org/10.1111/evo.14567
+
 # 2021
 
 (49) Sex- and trait-specific silver-spoon effects of developmental environments, on ageing. 
@@ -20,9 +25,8 @@ Journal of Experimental Biology, jeb.240846.
 
 # 2020
 
-(46) Sex and Power: sexual dimorphism in trait variability and its eco-evolutionary and statistical implications.
-**Zajitschek, S.R.K., F. Zajitschek**, Bonduriansky, R., Brooks, R.C., Cornwell,W., Falster, D.S,  Lagisz, M., Mason, J., Senior, A.M., Noble, D. A. W., S. Nakagawa.
-bioRxiv 2020.05.23.106146;
+(46) exual dimorphism in trait variability and its eco-evolutionary and statistical implications.
+**Zajitschek, S.R.K., F. Zajitschek**, Bonduriansky, R., Brooks, R.C., Cornwell, W., Falster, D.S,  Lagisz, M., Mason, J., Senior, A.M., Noble, D. A. W., S. Nakagawa. (2020) eLife 9:e63170. https://doi.org/10.7554/eLife.63170
 
 (45) Senescence in wild insects: key questions and challenges.
 **Zajitschek, F., Zajitschek, S.R.K** , R. Bonduriansky (2020).
