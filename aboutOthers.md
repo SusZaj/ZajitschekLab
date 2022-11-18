@@ -5,15 +5,20 @@ subtitle: you?!
 ---
 # Alumni, Volunteers and Project students
 
-***Sarah Plesser***
-Sarah was funded by a DAAD (Germany) funded summer internship, where she was leading the 2022 biodiverity survey on Byrom Street Campus. Furthermore, she conducted pilot studies on individual differences in zebrafish in response to ambiguous stimuli. Sarah is currently pursuing her MSc in Ecology (University of Wurzburg, Germany).
+***Sarah Plesser***  
+Sarah was funded by a DAAD (Germany) funded summer internship, where she was leading the 2022 biodiverity survey on Byrom Street Campus. Furthermore, she conducted pilot studies on individual differences in zebrafish in response to ambiguous stimuli - so basically looking into differences in mood and pptimism in zebrafish!
+Sarah is currently pursuing her MSc in Ecology (University of Wurzburg, Germany).
 
-***Amy Speers***
+***Amy Speers***  
 Volunteer and invaluable assistant for the Wildlife Gardens Project, both in the field and the laboratory for insect identification. Amy is currently in her second year of her UG Zoology degree at LJMU.
 
-***Veronica Manara***
-Veronica wanted to make use of her time in locdown after her first year, and designed a large-scale study on behavioural ecology in BEES in Italy. Due to adverse circumstances the project was never completed, but the connections made during the planning phase have led to a publiocation 
+***Veronica Manara***  
+Veronica wanted to make use of her time in lockdown after her first year, and we designed a large-scale field study in behavioural ecology in BEES in Italy. Due to adverse circumstances the project was never completed, but the connections Veronica made during the planning phase have led to  very valuable network connections - and have resulted in her first publication during second year of undergrad: **Manara, V & Zajitschek S. 2021.  A brief introduction to the ecology and
+collective behaviour of the honeybee. *In:* Good beekeeping practices for sustainable apiculture. FAO Animal Production and Health Guidelines (FAO, Apimondia, CAAS, IZSLT), pp43-46. https://doi.org/10.4060/cb5353en**
+She's now working at the Experimental Zooprophylactic Institute in Rome, connecting beekeepers and scientists, advancing good beekeeping practices and biosecurity measures and limit loss of pollinators. 
 
+Graduation 2021/22
+![image](https://user-images.githubusercontent.com/40815816/202744423-3ed5d6b1-6530-44e5-8931-2c2cf21e3b4c.png)
 
 
 
