@@ -3,11 +3,31 @@ layout: page
 title: Publications
 subtitle: Zajitschek Lab 
 ---
+# preprints / in review
+
+(X) Sex differences in allometry for phenotypic traits indicate that females are not scaled males. 
+Wilson, L. A., **Zajitschek, S. R.**, Lagisz, M., Mason, J., Haselimashhadi, H., & Nakagawa, S. (2022).  
+bioRxiv. https://doi.org/10.1101/2022.03.29.486193
+
+(Y) Dietary restriction fails to extend life in stressful environments.
+**Zajitschek, F., Zajitschek, S. R.**, Vasconcelos, A. C., & Bonduriansky, R. (2022).  
+bioRxiv. https://doi.org/10.1101/2022.10.17.512576
 
 # 2022
+(53) The effects of an obesogenic diet on behavior and cognition in zebrafish *(Danio rerio)*: Trait average, variability, repeatability, and behavioral syndromes.
+Anwer, H., O’Dea, R. E., Mason, D., **Zajitschek, S.**, Klinke, A., Reid, M., Hesselson, D., Noble, D. W. A., Morris, M. J., Lagisz, M., & Nakagawa, S. (2022).  Ecology and Evolution, 12, e9511. https://doi.org/10.1002/ece3.9511
+
+(52) Intergenerational effects of overfeeding on aversive learning in zebrafish *(Danio rerio)*.
+Anwer, H., Mason, D., **Zajitschek, S.**, Hesselson, D., Noble, D. W. A., Morris, M. J., Lagisz, M., & Nakagawa, S. (2022).  
+Ecology and Evolution, 12, e9423. https://doi.org/10.1002/ece3.9423
+
+(51) Adaptive maternal effects shape offspring phenotype and survival in natal environments. 
+Bestion, E., Teyssier, A., Rangassamy, M., Calvez, O., Guillaume, O., Richard, M., Braem, A., **Zajitschek, F., Zajitschek, S.** and Cote, J. (2022). 
+The American Naturalist, 200(6), pp.000-000.https://doi.org/10.1086/721873
 
 (50) Effects of developmental and adult environments on ageing. 
-Sanghvi, K., Iglesias‐Carrasco, M., **Zajitschek, F.**, Kruuk, L. E., & Head, M. L. (2022). Evolution 76(8), pp 1868-1882. https://doi.org/10.1111/evo.14567
+Sanghvi, K., Iglesias‐Carrasco, M., **Zajitschek, F.**, Kruuk, L. E., & Head, M. L. (2022). 
+Evolution 76(8), pp 1868-1882. https://doi.org/10.1111/evo.14567
 
 # 2021
 
@@ -25,7 +45,7 @@ Journal of Experimental Biology, jeb.240846.
 
 # 2020
 
-(46) exual dimorphism in trait variability and its eco-evolutionary and statistical implications.
+(46) Sexual dimorphism in trait variability and its eco-evolutionary and statistical implications.
 **Zajitschek, S.R.K., F. Zajitschek**, Bonduriansky, R., Brooks, R.C., Cornwell, W., Falster, D.S,  Lagisz, M., Mason, J., Senior, A.M., Noble, D. A. W., S. Nakagawa. (2020) eLife 9:e63170. https://doi.org/10.7554/eLife.63170
 
 (45) Senescence in wild insects: key questions and challenges.
