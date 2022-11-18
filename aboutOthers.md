@@ -14,10 +14,10 @@ Volunteer and invaluable assistant for the Wildlife Gardens Project, both in the
 
 ***Veronica Manara***  
 Veronica wanted to make use of her time in lockdown after her first year, and we designed a large-scale field study in behavioural ecology in BEES in Italy. Due to adverse circumstances the project was never completed, but the connections Veronica made during the planning phase have led to  very valuable network connections - and have resulted in her first publication during second year of undergrad: **Manara, V & Zajitschek S. 2021.  A brief introduction to the ecology and
-collective behaviour of the honeybee. *In:* Good beekeeping practices for sustainable apiculture. FAO Animal Production and Health Guidelines (FAO, Apimondia, CAAS, IZSLT), pp43-46. https://doi.org/10.4060/cb5353en**
+collective behaviour of the honeybee. *In:* Good beekeeping practices for sustainable apiculture. FAO Animal Production and Health Guidelines (FAO, Apimondia, CAAS, IZSLT), pp43-46.** https://doi.org/10.4060/cb5353en   
 She's now working at the Experimental Zooprophylactic Institute in Rome, connecting beekeepers and scientists, advancing good beekeeping practices and biosecurity measures and limit loss of pollinators. 
 
-Graduation 2021/22
+Graduation 2021/22   
 ![image](https://user-images.githubusercontent.com/40815816/202744423-3ed5d6b1-6530-44e5-8931-2c2cf21e3b4c.png)
 
 
