@@ -66,7 +66,7 @@ Terri Round: Effects of dog breeds and owner traits on human-canine interaction.
 
 
 
-Interested in joining us?
+***Interested in joining us?***
 
 ## Get in touch! 
 
