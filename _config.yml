@@ -25,7 +25,7 @@ navbar-links:
   About Us: 
   - About Susi: "aboutme"
   - About Felix: "aboutFelix"
-  - The team: "aboutOthers"
+  - The team: "aboutothers"
   - Join us: "opportunities"
   Research: 
   - Behavioural Ecology: "beheco" 
