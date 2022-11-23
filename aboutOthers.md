@@ -18,7 +18,7 @@ collective behaviour of the honeybee. *In:* Good beekeeping practices for sustai
    
 Veronica is now working at the Experimental Zooprophylactic Institute in Rome, connecting beekeepers and scientists, advancing good beekeeping practices and biosecurity measures and limit loss of pollinators. 
 
-*Graduation 2021/22   *
+*Graduation 2021/22*       
 ![image](https://user-images.githubusercontent.com/40815816/202744423-3ed5d6b1-6530-44e5-8931-2c2cf21e3b4c.png)
 
 
