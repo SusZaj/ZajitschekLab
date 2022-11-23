@@ -23,7 +23,7 @@ Ecology and Evolution, 12, e9423. https://doi.org/10.1002/ece3.9423
 
 (51) Adaptive maternal effects shape offspring phenotype and survival in natal environments. 
 Bestion, E., Teyssier, A., Rangassamy, M., Calvez, O., Guillaume, O., Richard, M., Braem, A., **Zajitschek, F., Zajitschek, S.** and Cote, J. (2022). 
-The American Naturalist, 200(6), pp.000-000.https://doi.org/10.1086/721873
+The American Naturalist, 200(6), pp. 773-789. https://doi.org/10.1086/721873
 
 (50) Effects of developmental and adult environments on ageing. 
 Sanghvi, K., Iglesias‐Carrasco, M., **Zajitschek, F.**, Kruuk, L. E., & Head, M. L. (2022). 
