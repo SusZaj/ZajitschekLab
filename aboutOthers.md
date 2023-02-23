@@ -27,11 +27,11 @@ Veronica is now working at the Experimental Zooprophylactic Institute in Rome, c
 
 ### 2022/23
   
-Maisie Blunt: Effects of enrichmaent types on behaviour in captive primates. (Sheldon Wildlife Trust)
+Maisie Blunt: Effects of enrichment types on behaviour in captive primates. (Sheldon Wildlife Trust)
 
-Katie Francis: Using *DogFACS* to understand responses to anxiety-inducing stimuli in dometicated dogs *(Canis lupus familiaris)*.  (Field Study / Experiment)
+Katie Francis: Using *DogFACS* to understand responses to anxiety-inducing stimuli in domesticated dogs *(Canis lupus familiaris)*.  (Field Study / Experiment)
 
-Ria Mc Clenaghan: Environmental enrichment and oits effects on dog welfare. (Meta analysis)
+Ria Mc Clenaghan: Environmental enrichment and its effects on dog welfare. (Meta analysis)
 
 Libby Scothern: Small-scale differences in garden maintenance and their effect on insect diversity and abundance. (Field study / Lab)
 
