@@ -3,7 +3,10 @@ layout: page
 title: The team...
 subtitle: you?!
 ---
-# Alumni, Volunteers and Project students
+# PhD students
+
+***Zhitian Hu***  
+Zhitian joined the lab in June 2023, and will be exploring the interactive effects of sleep and diet quality on fruit flies. He holds Masters degrees from University College London, United Kingdom, and Lanzhou University, China.  ![image](https://github.com/SusZaj/ZajitschekLab/blob/master/img/ZhitianPhoto.jpg))
 
 ***Sarah Plesser***  
 Sarah was funded by a DAAD (Germany) funded summer internship, where she was leading the 2022 biodiverity survey on Byrom Street Campus. Furthermore, she conducted pilot studies on individual differences in zebrafish in response to ambiguous stimuli - so basically looking into differences in mood and optimism in zebrafish!
