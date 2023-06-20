@@ -7,16 +7,17 @@ subtitle: you?!
 # PhD students
 
 ***Zhitian Hu***  
-<img align="left" width="100" height="100" src="https://github.com/SusZaj/ZajitschekLab/blob/master/img/ZhitianPhoto.png">
+![ZhitianPhoto](https://github.com/SusZaj/ZajitschekLab/assets/40815816/69a93f57-63b9-4733-ac87-ae17a334f4b8)
 Zhitian joined the lab in June 2023, and will be exploring the interactive effects of sleep and diet quality on fruit flies. He holds Masters degrees from University College London, United Kingdom, and Lanzhou University, China.    
-
-    
+<img align="left" width="100" height="100" src="https://github.com/SusZaj/ZajitschekLab/blob/master/img/ZhitianPhoto.png">
    
 # Alumni, Volunteers and Project students
 
 ***Sarah Plesser***  
 Sarah was funded by a DAAD (Germany) funded summer internship, where she was leading the 2022 biodiverity survey on Byrom Street Campus. Furthermore, she conducted pilot studies on individual differences in zebrafish in response to ambiguous stimuli - so basically looking into differences in mood and optimism in zebrafish!
 Sarah is currently pursuing her MSc in Ecology (University of Wurzburg, Germany).
+
+
 
 ***Amy Speers***  
 Volunteer and invaluable assistant for the Wildlife Gardens Project, both in the field and the laboratory for insect identification. Amy is currently in her second year of her UG Zoology degree at LJMU.
