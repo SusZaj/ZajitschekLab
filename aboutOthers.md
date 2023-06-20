@@ -7,8 +7,8 @@ subtitle: you?!
 # PhD students
 
 ***Zhitian Hu***  
-Zhitian joined the lab in June 2023, and will be exploring the interactive effects of sleep and diet quality on fruit flies. He holds Masters degrees from University College London, United Kingdom, and Lanzhou University, China.  ![image](https://github.com/SusZaj/ZajitschekLab/blob/master/img/ZhitianPhoto.jpg)| width=100 
-<img src="https://github.com/SusZaj/ZajitschekLab/blob/master/img/ZhitianPhoto.jpg" style="height: 100px; width:100px; float: right"/>
+Zhitian joined the lab in June 2023, and will be exploring the interactive effects of sleep and diet quality on fruit flies. He holds Masters degrees from University College London, United Kingdom, and Lanzhou University, China. 
+<img src="https://github.com/SusZaj/ZajitschekLab/blob/master/img/ZhitianPhoto.jpg" style="height: 100px; width:100px; float: right;"/>
    
 # Alumni, Volunteers and Project students
 
