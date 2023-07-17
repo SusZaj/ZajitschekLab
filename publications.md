@@ -13,7 +13,17 @@ bioRxiv. https://doi.org/10.1101/2022.03.29.486193
 **Zajitschek, F., Zajitschek, S. R.**, Vasconcelos, A. C., & Bonduriansky, R. (2022).  
 bioRxiv. https://doi.org/10.1101/2022.10.17.512576
 
+# 2023  
+(55) Dietary restriction fails to extend life in stressful environments.
+**Zajitschek, F., Zajitschek, S. R.**, Vasconcelos, A. C., & Bonduriansky, R. (2023).  
+Functional Ecology,  https://doi.org/10.1111/1365-2435.14389   
+
 # 2022
+
+(54) Sex differences in allometry for phenotypic traits indicate that females are not scaled males.   
+Wilson, L. A., **Zajitschek, S. R.**, Lagisz, M., Mason, J., Haselimashhadi, H., & Nakagawa, S. (2022).    
+Nature Communications 13(1). https://doi.org/10.1038/s41467-022-35266-6
+ 
 (53) The effects of an obesogenic diet on behavior and cognition in zebrafish *(Danio rerio)*: Trait average, variability, repeatability, and behavioral syndromes.
 Anwer, H., O’Dea, R. E., Mason, D., **Zajitschek, S.**, Klinke, A., Reid, M., Hesselson, D., Noble, D. W. A., Morris, M. J., Lagisz, M., & Nakagawa, S. (2022).  Ecology and Evolution, 12, e9511. https://doi.org/10.1002/ece3.9511
 
