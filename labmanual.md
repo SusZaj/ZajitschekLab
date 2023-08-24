@@ -15,4 +15,4 @@ Have a read! Download the latest version from ***[here](./ZajitschekHandbook_v3.
 
 
 For more internal information, here the lastest version of the LJMU Science Postgrad Handbook:
-LJMU_Postgrad_handbook
+***[LJMU_Postgrad_handbook] (./SCS PGR Handbook 2023-2024.pdf)***
