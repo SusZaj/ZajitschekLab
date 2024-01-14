@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASAB 2025 Logo Competition
-subtitle: to the Zajitschek Lab!
+title: ASAB 2025 
+subtitle: Logo Competition!
 image: /img/Logo.png
 ---
 
