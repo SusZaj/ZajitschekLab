@@ -9,4 +9,4 @@ We are looking for the perfect logo for the Easter meeting we're organising on b
 All artworks are showcased here: ([ASAB2025]([https://suszaj.github.io/ZajitschekLab/aboutme/](https://suszaj.github.io/ZajitschekLab/ASAB2025/))
   
 
-And can be voted for using this link: ([VOTE!]([[https://wtbb](https://freeonlinesurveys.com/s/J4BoEqgY)https://freeonlinesurveys.com/s/J4BoEqgY)
+And can be voted for using this link: [VOTE!](https://wtbb](https://freeonlinesurveys.com/s/J4BoEqgY)https://freeonlinesurveys.com/s/J4BoEqgY)
