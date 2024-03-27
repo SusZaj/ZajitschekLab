@@ -36,6 +36,18 @@ Veronica is now working at the Experimental Zooprophylactic Institute in Rome, c
 
 ## Project students & topics  
 
+### 2023/24
+
+Rebekah Outerside: Exploring optimism in zebrafish: Unravelling the influence of environmental enrichment on cognitive judgement bias in zebrafish (*Danio rerio*) through novel video playback method (Lab experiment / observation)
+
+Malachi Egbuchiri: Exploring Dietary Preference in *Drosophila melanogaster* through protein selection (Lab experiment)
+
+Jess de Groot: Investigating canine cognition with the use of problem-solving puzzles (Field Study / Experiment)
+
+Alahnya Tomlinson: Time matters: Investigating ideal habituation timing for laboratory study with zebrafish (*Danio rerio*) (Lab experiment / observation)
+
+Jess Hepburn: Individual Differences In Cognition Between Canines (Canis familiaris) Housed In A Rescue Shelter (Field Study / Experiment)
+
 ### 2022/23
   
 Maisie Blunt: Effects of enrichment types on behaviour in captive primates. (Sheldon Wildlife Trust)
@@ -47,6 +59,7 @@ Ria Mc Clenaghan: Environmental enrichment and its effects on dog welfare. (Meta
 Libby Scothern: Small-scale differences in garden maintenance and their effect on insect diversity and abundance. (Field study / Lab)
 
 Isobel Sharpe: Learning and toy memory in dogs *(Canis lupus familiaris)*.  (Field Study / Experiment)
+
 
 
 ### 2021/22
