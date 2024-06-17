@@ -28,7 +28,7 @@ plus lots of links therein...
 LJMU's hints for [mental health and wellbeing](https://app.goodpractice.net/#/ljmu/s/d251e333)
 
 ## Grad school stuff
-***some advice from Fellow PGRs, a vlog from LJMU's own***
+***some advice from Fellow PGRs, a vlog from LJMU's own***    
 [stupidgeniuspod.co.uk](https://stupidgeniuspod.co.uk/)
 
 
