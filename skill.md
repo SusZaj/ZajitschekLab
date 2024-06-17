@@ -27,6 +27,10 @@ plus lots of links therein...
     
 LJMU's hints for [mental health and wellbeing](https://app.goodpractice.net/#/ljmu/s/d251e333)
 
+## Grad school stuff
+***some advice from Fellow PGRs, a vlog from LJMU's own***
+[stupidgeniuspod.co.uk](https://stupidgeniuspod.co.uk/)
+
 
 ## Organisational skills
 - don't procrastinate (see [here](https://procrastination.com/what-is-procrastination) and [here](https://alphaefficiency.com/4-types-procrastination-beat/) to find out what the problem is and how you may beat it)
