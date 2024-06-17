@@ -57,6 +57,10 @@ image: /img/Logo.png
 
 - https://happygitwithr.com/
 
+### other's R tip collections
+
+- https://steffilazerte.ca/posts/useful-packages/
+        
 
 ## More tools for best practice
 ### Preregistration
