@@ -9,4 +9,4 @@ css: "/css/index.css"
 
  **Accompanying Figure: Vice-Chancellor PhD Studentship 2025 application **
     
-![R Logo](/img/Rlogo.png){:.align-right}    
+![Figure 1](/img/VC_2025.jpg){:.align-right}    
