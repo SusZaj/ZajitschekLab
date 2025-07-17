@@ -7,6 +7,15 @@ image: /img/Logo.png
 ---
 ![R Logo](/img/Rlogo.png){:.align-right}    
 
+## Our free, online courses
+
+Self-guided and paced, they don't even need any local R installation... 
+    
+[Meta-analysis for biologists](https://metaanalysis.zajitschek.net/)
+and   
+[Lifespan analysis](https://lifespananalysis.zajitschek.net/)
+    
+
 ## Intro to R / R studio
 
 - excellent resource to get started, gives overview and intro to R studio:
